@@ -9,3 +9,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Output:
 - Simple interest = p * t * r
+## Recent Updates
+- Added new feature to calculate compound interest.
+- Updated usage instructions for better clarity.
